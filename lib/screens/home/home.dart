@@ -11,7 +11,7 @@ class HomeScreen extends StatelessWidget {
 
     return Box(
       styleSheet: StyleSheet(
-        flexDirection: {Breakpoints.xs: 'row'},
+        flexDirection: {Breakpoints.xs: 'column'},
         // justifyContent: {Breakpoints.xs: 'flex-start'},
         // alignItems: {Breakpoints.xs: 'stretch'},
         backgroundColor: {Breakpoints.xs: theme.colors.primary.x600},
