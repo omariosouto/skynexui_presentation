@@ -1,4 +1,4 @@
-# lindsey_demo
+# skynexui_demo
 
 A new Flutter project.
 
