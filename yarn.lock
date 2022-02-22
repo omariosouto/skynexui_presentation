@@ -121,10 +121,10 @@
   resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.0.9.tgz#f7d3b59000082cf65c84fdc61930b708aa5446e5"
   integrity sha512-1c/sxp/4Qz4F6rCxiYqAnrmghCOFt5hHZ9Kd+rXFW5Mqev4C4XDOUMHdBH55HgnJZqngYhOE0r/XNkCtsIojig==
 
-"@skynexui/components@^1.24.3":
-  version "1.24.3"
-  resolved "https://registry.yarnpkg.com/@skynexui/components/-/components-1.24.3.tgz#cc98f913a5a07e637a5bbfd0b2a84dd2240e7afa"
-  integrity sha512-EPgpVdRTj8+i5b/l5w5nGjNDvKjPwK5M5xDDLtZZw3/T+Wkf6EfBsByzmLacNVIgs3e2c+R5mBgOSSpvXwD7DQ==
+"@skynexui/components@^1.24.6":
+  version "1.24.6"
+  resolved "https://registry.yarnpkg.com/@skynexui/components/-/components-1.24.6.tgz#a28a7ffeb85235600f9e41cdbed4207a6ea8b88c"
+  integrity sha512-JR12EjGzdGDdSwoIjJhfLAWdPJnGeSRQT/Y+yAIpEkFcOZoKxRYXHFgGzkWZUByeX8eQ914ZWy5daUch9elh9Q==
   dependencies:
     "@fortawesome/fontawesome-common-types" "^0.2.36"
     "@fortawesome/fontawesome-free" "^5.15.4"

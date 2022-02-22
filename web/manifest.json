@@ -1,6 +1,6 @@
 {
-    "name": "lindsey_demo",
-    "short_name": "lindsey_demo",
+    "name": "sknui_demo",
+    "short_name": "sknui_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -127,7 +127,7 @@ packages:
       name: skynexui_components
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.24.3"
+    version: "1.24.6"
   source_span:
     dependency: transitive
     description:

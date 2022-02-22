@@ -1,4 +1,4 @@
-package com.example.lindsey_demo
+package com.example.sknui_demo
 
 import io.flutter.embedding.android.FlutterActivity
 

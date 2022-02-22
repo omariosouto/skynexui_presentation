@@ -1,4 +1,4 @@
-import 'package:lindsey_demo/screens/home/home.dart';
+import 'package:sknui_demo/screens/home/home.dart';
 import 'package:skynexui_components/components.dart';
 
 void main() {
